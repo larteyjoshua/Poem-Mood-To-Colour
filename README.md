@@ -1,6 +1,6 @@
 # peoms_mood_to_colour
 
-A new Flutter project.
+A new Flutter project that convert a Poem mood to colour 
 
 ## Getting Started
 
